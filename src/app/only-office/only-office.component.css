@@ -1,0 +1,9 @@
+.document-editor {
+    height: 50vh;
+    width: 50vw;
+}
+
+.document-editor-container {
+    display: block;
+    height: 100vh;
+}
